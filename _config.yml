@@ -25,7 +25,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: EinfachToll
 
 # Build settings
-theme: minima
+theme: cayman
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
